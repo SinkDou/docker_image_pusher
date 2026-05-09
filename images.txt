@@ -8,3 +8,5 @@ ubuntu
 hello-world
 redis
 registry
+tomcat
+mysql
