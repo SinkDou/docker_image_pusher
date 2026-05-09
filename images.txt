@@ -7,3 +7,4 @@ xhofe/alist:latest
 ubuntu
 hello-world
 redis
+registry
