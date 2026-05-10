@@ -9,5 +9,4 @@ hello-world
 redis
 registry
 tomcat
-mysql
 mysql:5.7
