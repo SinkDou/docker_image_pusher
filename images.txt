@@ -12,4 +12,4 @@ tomcat
 mysql:5.7
 centos:7
 alpine
-openjdk
+jdk
