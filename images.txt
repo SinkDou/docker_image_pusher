@@ -11,5 +11,4 @@ registry
 tomcat
 mysql:5.7
 centos:7
-java:8
 alpine
